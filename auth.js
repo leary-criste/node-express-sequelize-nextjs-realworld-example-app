@@ -41,4 +41,4 @@ module.exports = {
     credentialsRequired: false,
     getToken: getTokenFromRequest,
   }),
-}
+}
