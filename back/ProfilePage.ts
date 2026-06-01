@@ -68,4 +68,4 @@ export function getStaticPropsProfile(tab): GetStaticProps {
       },
     }
   }
-}
+}
