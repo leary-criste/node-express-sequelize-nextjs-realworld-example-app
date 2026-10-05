@@ -65,4 +65,4 @@ export const getStaticPropsHoc: GetStaticProps = async () => {
     props: await getLoggedOutProps(),
     revalidate,
   }
-}
+}
