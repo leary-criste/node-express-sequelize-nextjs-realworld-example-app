@@ -59,4 +59,4 @@ export function getStaticPropsArticle(
     }
     return ret
   }
-}
+}
